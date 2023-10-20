@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    tools:showIn = "navigation_view">
+    <item android:id="@+id/Profile"
+        android:title="Profile"/>
+    <item android:id="@+id/StudentRegistration"
+        android:title="Student Registration"/>
+    <item android:id="@+id/TeacherRegistration"
+        android:title="Teacher Registration"/>
+    <item android:id="@+id/EmployRegistration"
+        android:title="Empoly Registration"/>
+    <item android:id="@+id/AccountSection"
+        android:title="Account Mangement"/>
+    <item android:id="@+id/logout"
+        android:title="Logout"
+        />
+
+
+
+
+</menu>
